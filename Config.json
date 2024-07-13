@@ -1,9 +1,0 @@
-{
-  "identifier": "com.xuyixin1996.massCode.popclip.extension",
-  "name": "massCode",
-  "icon": "logo.png",
-  "action": {
-    "shell script file": "massCode.sh"
-  },
-  "description": "Add the selected text to massCode."
-}

@@ -1,5 +1,7 @@
 # massCode Popclip Extension
 
+[massCode-popclip-extension](https://github.com/xuyixin1996/massCode-popclip-extension) is a [Popclip](https://pilotmoon.com/popclip/) extension to create snippets in [massCode](https://masscode.io/).
+
 ## Prerequisites
 
 Currently this extension is only tested on macOS and use fixed python3.8 version and use `requests` to post snippets to
